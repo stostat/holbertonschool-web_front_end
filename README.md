@@ -1,2 +1,2 @@
 # holbertonschool-web_front_end
-web stack specialization
+Welcome to the Web Stack specialization
