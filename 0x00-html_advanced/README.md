@@ -46,11 +46,3 @@
 ## Wireframe of Techium project
 
 ------------
-
-<img src="https://i.ibb.co/99XjBW7/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png" alt="3e4f9e2b3cb73d1768229e086f5da35337be5c6c" border="0">
-
-------------
-
-
-
-### By: <a href="https://www.linkedin.com/in/daniela-morales-89049b199/">Daniela Morales 💅</a>
