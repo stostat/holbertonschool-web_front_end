@@ -1,0 +1,8 @@
+/* usando mixins una mezcla mas flexible */
+@mixin margins($property) {
+    margin-left: $property;
+    margin-right: $property;
+}
+
+body { @include margins(10px); }
+div { @include margins(15px); }

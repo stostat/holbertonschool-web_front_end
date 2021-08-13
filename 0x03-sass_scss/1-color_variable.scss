@@ -1,0 +1,8 @@
+/* Usamos la variable prop_color para definir un color en hex para asignarlo al body y a un p */
+$prop_color: #3D3D3D;
+
+body {
+    color: $prop_color; }
+
+p {
+    color: $prop_color; }

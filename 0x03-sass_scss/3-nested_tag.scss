@@ -1,0 +1,8 @@
+/* usando propiedades css de manera anidada el tag p pertenece al tag body */
+body {
+    margin: 0px;
+    padding: 0px;
+    p {
+        margin: 10px; 
+    }
+}
